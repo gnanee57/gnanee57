@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanee57&show_icons=true&locale=en&theme=bear" alt="gnanee57" width = 400/></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanee57&theme=dark&hide_border=true" alt="gnanee57" width = 400/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanee57&theme=dark" alt="gnanee57" width = 400/></p>
 
